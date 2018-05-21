@@ -1,0 +1,4 @@
+baseURL = "https://blog.joshrowley.me"
+languageCode = "en-us"
+title = "Memoize by Heart"
+theme = "ananke"
